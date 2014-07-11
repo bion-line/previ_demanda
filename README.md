@@ -1,4 +1,6 @@
-previ_demanda
+Prevision de la Demanda
 =============
 
-Pricing
+Proyecto de prevision de demanda de ocupación de vehiculos en Rent-a-Car, extensible a otros tipologías de proyecto: lineas aéreas, hoteles, etc...
+
+
